@@ -1,3 +1,1 @@
-// script.js
-console.log('Bookmarklet loaded live from GitHub!');
-alert('Bookmarklet updated successfully!');
+alert("GitHub script executed successfully!");
